@@ -73,7 +73,7 @@ Hi there! I’m **Nikhil Kumar Shah**, an 18-year-old tech enthusiast starting m
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&color=13D1C5&size=24&pause=1500&random=false&center=true&width=500&lines=Happy+Coding!;Transforming+ideas+into+reality+with+code.;Let%E2%80%99s+learn+and+build+together!"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&color=13D1C5&size=24&pause=1500&random=false&center=true&width=500&lines=Happy+Coding!;Turning+idea+into+reality+with+code;Let%E2%80%99s+learn+and+build+together!"/>
 </p>
 
 ---
